@@ -2,7 +2,7 @@
   <configuration default="false" name="ExternalApplication" type="Application" factoryName="Application" nameIsGenerated="true">
     <option name="MAIN_CLASS_NAME" value="hello.ExternalApplication" />
     <module name="external.main" />
-    <option name="VM_PARAMETERS" value="-Dspring.profiles.active=prod" />
+    <option name="VM_PARAMETERS" value="-Dspring.profiles.active=dev" />
     <extension name="coverage">
       <pattern>
         <option name="PATTERN" value="hello.*" />
